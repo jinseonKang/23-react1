@@ -3,6 +3,7 @@
 
 > 오늘은 npm start를 하고, 웹사이트에 직접 리액트를 연동했다.
 > 그리고 프로젝트를 생성한 뒤 repository를 삭제했다.
+
 > 터미널에 git config --global user.name,
 git config --global user.email을 입력하여 사용자 이름과,
 이메일을 추가하였다.
