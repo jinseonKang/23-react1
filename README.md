@@ -32,7 +32,7 @@
 실습: 시계 만들기
 import React from "react";
 
-functiorn Clock(props) {
+function Clock(props) {
   return (
     <div>
       <h1>안녕, 리액트</h1>
