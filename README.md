@@ -12,7 +12,7 @@
 
 #### 실습
 
-> <img width="1440" alt="image" src="https://user-images.githubusercontent.com/126742685/230253717-ce0410d3-63d3-4342-8bcb-e24917071e56.png">
+> <img width="1440" alt="image" src="https://user-images.githubusercontent.com/126742685/230256786-91235bad-11f5-42a8-af11-ea9f57ed61c0.png"> 
 
 # 5주차 (2023.03.30)
 
