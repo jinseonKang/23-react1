@@ -10,10 +10,8 @@
 > 2. 기능 단위로 구분하는 것이 좋고, 나중에 곧바로 재사용이 가능한
 >    형태로 추출하는 것이 좋음
 
-```
 <img src="/path/to/image.jpg" width="450px" height="300px"
-title="image" alt="image"></img>
-```
+title="image" alt="image"></img><br/>
 
 # 5주차 (2023.03.30)
 
