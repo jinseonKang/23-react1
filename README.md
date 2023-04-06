@@ -10,7 +10,8 @@
 > 2. 기능 단위로 구분하는 것이 좋고, 나중에 곧바로 재사용이 가능한
 >    형태로 추출하는 것이 좋음
 
-<img src="../image" width="400" height="300">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/126742685/230253717-ce0410d3-63d3-4342-8bcb-e24917071e56.png">
+
 
 # 5주차 (2023.03.30)
 
