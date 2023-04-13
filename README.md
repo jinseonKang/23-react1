@@ -3,7 +3,7 @@
 # 7주차 (2023.04.13)
 
 ### 실습(생명주기 함수 사용해 보기)
-> <img width="1440" alt="스크린샷 2023-04-13 오전 10 12 07" src="https://user-images.githubusercontent.com/126742685/231620131-43dd714a-a176-46e1-a1dd-6ec1d2de1f57.png">
+> <img width="1440" alt="스크린샷 2023-04-13 오전 10 17 29" src="https://user-images.githubusercontent.com/126742685/231620635-4811d5be-a072-4fc9-b961-df6e17797485.png">
 
 
 # 6주차 (2023.04.06)
