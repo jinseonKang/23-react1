@@ -134,7 +134,7 @@ function Counter(props) {
 
 ### 실습 (훅을 사용한 컴포넌트 개발)
 
->
+> <img width="1440" alt="스크린샷 2023-04-13 오전 11 36 21" src="https://user-images.githubusercontent.com/126742685/231633606-c1051869-b6bd-4530-ad45-33b9d0782c9c.png">
 
 # 6주차 (2023.04.06)
 
