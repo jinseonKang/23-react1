@@ -20,6 +20,26 @@
 > - - const [변수명, set함수명] = useState (초깃값);
 > - - 변수 각각에 대해 set 함수가 따로 존재함
 
+```
+useState() 훅을 사용하는 예제 코드
+
+import React, {useState} from "react";
+
+function Counter(props) {
+  var count = 0;
+
+  return (
+    <div>
+      <p>총 {count}번 클릭했습니다.</p>
+      <button onClick={() => count++}>
+          클릭
+      </button>
+    </div>
+  );
+}
+
+```
+
 > 3. useEffect()
 >
 > - 사이드 이펙트를 수행하기 위한 훅
