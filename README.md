@@ -43,7 +43,8 @@
 
 ### 실습 (출석부 출력하기)
 
->
+> <img width="1440" alt="스크린샷 2023-05-04 오전 10 41 51" src="https://user-images.githubusercontent.com/126742685/236090868-a6c8e5b7-e666-466a-af7a-2b80dafc7df5.png">
+
 
 # 8주차 (2023.04.27)
 
