@@ -35,7 +35,8 @@
 
 ### 실습 (Card 컴포넌트 만들기)
 
->
+> <img width="1440" alt="스크린샷 2023-05-18 오전 11 09 22" src="https://github.com/jinseonKang/23-react1/assets/126742685/dcb70d7d-96c0-4075-b22c-2b43394daaad">
+
 
 # 10주차 (2023.05.11)
 
