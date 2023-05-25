@@ -9,6 +9,9 @@
 3. 컨텍스트의 값이 변경되면 변경된 값과 함께 useContext() 훅을 사용하는 컴포넌트가 재랜더링됨
 
 ### 실습 (컨텍스트를 사용하여 테마 변경 기능 만들기)
+> <img width="1440" alt="스크린샷 2023-05-25 오전 10 18 45" src="https://github.com/jinseonKang/23-react1/assets/126742685/daa9a461-5f97-4ec4-89d8-5c373be32107">
+> 
+> <img width="1440" alt="스크린샷 2023-05-25 오전 10 18 52" src="https://github.com/jinseonKang/23-react1/assets/126742685/9b9e9b50-a598-4c32-859e-603ad024badc">
 
 # 11주차 (2023.05.18)
 
